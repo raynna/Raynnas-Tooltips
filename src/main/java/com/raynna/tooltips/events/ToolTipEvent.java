@@ -48,7 +48,7 @@ public class ToolTipEvent {
         handleEnchantTooltips(context);
         handleFoodEffectsTooltips(context);
         handleDebugTooltips(context);
-    }
+    } 
 
     private static class TooltipContext {
         public final ItemTooltipEvent event;
